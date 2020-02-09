@@ -1,2 +1,6 @@
 bfhgffhf
+<<<<<<< HEAD
 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+=======
+vyugbhbunhjiojo
+>>>>>>> bbe6dbf98621664f28634646c2b48f0d6a55f9c7
